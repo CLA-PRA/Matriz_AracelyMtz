@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Principal {
     public String getGreeting(){
-        return "Hellow";
+        return "Hi";
         }
     static Matriz m;
     public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class Principal {
 		    m.imprime(b);
 		    System.out.println("=");
 		    m.imprime(d);
-		    ////////////////////////
+		    
 		    System.out.println("Multiplicando matrices:");
 		    m.imprime(a);
 		    System.out.println(".");

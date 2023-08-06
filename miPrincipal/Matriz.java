@@ -11,7 +11,6 @@ public class Matriz {
                     }
         }
         public int[][] suma (int [][] A, int [][] B){
-
                int m= A.length;
                int o= B[0].length;
                int [][] C= new int [m][o];
